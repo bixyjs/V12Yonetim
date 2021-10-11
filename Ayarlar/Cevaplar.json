@@ -1,0 +1,19 @@
+{
+  
+  "YüksekYetki": "Etiketlediğin kişi yükseltmek istediğin rolden daha yüksek bir role sahip.",
+  "AynıYetki": "Etiketlediğin kişinin yetki seviyesi yükseltmek istediğin yetki seviyesiyle aynı. Daha yüksek bir seviye belirt.",
+  "EnDüşükYetki": "Dostum zaten yükseltmek istediğin rol en düşük rol. Kullanabilir değerlerinden birini kullanmalısın.",
+  "YetkiYok" : "Etiketlediğin kişinin hiç bir yetkili rolü yok. Rol vermek için yetki ver komutu kullanabilirsin.",
+  "Kendine": "Bu işlemi kendine uygulayamazsın.",
+  
+  
+  "AynıYetenek": "Etiketlediğin kişi zaten bu role sahip. Rolünü almak için yetenek al komutunu kullanabilirsin.",
+  "YetenekYok": "Etiketlediğin kişi bu role sahip değil. Rol vermek için yetenek ver komutunu kullanabilirsin",
+  
+  "AynıStaff": "Etiketlediğin kişi zaten bu role sahip. Rolünü almak için staff al komutunu kullanabilirsin.",
+  "StaffYok": "Etiketlediğin kişi bu role sahip değil. Rol vermek için staff ver komutunu kullanabilirsin",
+  
+  
+  "YetersizYetki": "Komutu kullanmak için yetkin bulunmamakta."
+  
+}
