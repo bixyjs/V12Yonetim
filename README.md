@@ -1,7 +1,7 @@
 ## V12 Yönetim Botu - Bixy X Hyper
 
 * Herkese selamlar bugün (11.10.21) sizlere **V12 Yönetim Botumuzu** tanıtacağım.
-* Öncelikle şunu belirtmek isterim bu altyapının bütün hakları [Bixy](https://discord.com/users/409604555094097939)  ve [Hyper'a](https://discord.com/users/564894186386751508) aittir çalınması veya parayla satılması kesinlikle yasaktır, paylaşacaksanız bile kesinlikle bizim ismimizi vermelisiniz. Evet şimdi botumuza geçelim...
+* Öncelikle şunu belirtmek isterim bu altyapının bütün hakları [Bixy](https://discord.com/users/409604555094097939)  ve [Hyper'a](https://discord.com/users/564894186386751508) aittir. Evet şimdi botumuza geçelim...
 
 # ✨ Kurulum
 ### Projeyi botunuzda kullanmak için bazı işlemler yapmanız gerekiyor. Aşağıdaki yönlendirmeleri takip ederek bunu yapabilirsiniz :
