@@ -1,0 +1,53 @@
+{
+  
+    "YetkiliRolleri": {
+    
+     "AltYetkiliRolü": "ROLID",
+     "AltYetkiliRolü2": "ROLID",
+     "AltYetkiliRolü3": "ROLID",
+     "AltYetkiliRolü4": "ROLID",
+     "AltYetkiliRolü5": "ROLID",
+    
+     "OrtaYetkiliRolü": "ROLID",
+     "OrtaYetkiliRolü2": "ROLID",
+     "OrtaYetkiliRolü3": "ROLID",
+     "OrtaYetkiliRolü4": "ROLID",
+     "OrtaYetkiliRolü5": "ROLID",
+    
+     "ÜstYetkiliRolü": "ROLID",
+     "ÜstYetkiliRolü2": "ROLID",
+     "ÜstYetkiliRolü3": "ROLID",
+     "ÜstYetkiliRolü4": "ROLID",
+     "ÜstYetkiliRolü5": "ROLID",
+     "ÜstYetkiliRolü6": "ROLID",
+     "ÜstYetkiliRolü7": "ROLID"
+  
+  },
+  
+  "Yetenekler": {
+    
+    "Müzisyen": "ROLID",
+    "Vokal": "ROLID",
+    "Tasarımcı": "ROLID",
+    "Yazılımcı": "ROLID",
+    "Ressam": "ROLID",
+    "YouTuber": "ROLID",
+    "Şair": "ROLID",
+    "VoiceActor": "ROLID"
+    
+  },
+  
+  "Stafflar": {
+    
+    "YetkiVeren": "ROLID",
+    
+    "RegisterStaff": "ROLID",
+    "MuteStaff": "ROLID",
+    "TransportStaff": "ROLID",
+    "JailStaff": "ROLID",
+    "BanStaff": "ROLID"
+    
+  }
+  
+  
+}
